@@ -1,6 +1,6 @@
 # SQLiteToExcel
 
-[ ![Download](https://api.bintray.com/packages/li-yu/maven/SQLiteToExcel/images/download.svg) ](https://bintray.com/li-yu/maven/SQLiteToExcel/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/li-yu/maven/SQLiteToExcel/images/download.svg) ](https://bintray.com/li-yu/maven/SQLiteToExcel/_latestVersion) <a href="http://www.methodscount.com/?lib=com.liyu.tools%3Asqlitetoexcel%3A1.0.7"><img src="https://img.shields.io/badge/Methods and size-core: 184 | deps: 22981 | 19 KB-e91e63.svg"/></a>
 
 [中文版 README](README.md)
 
